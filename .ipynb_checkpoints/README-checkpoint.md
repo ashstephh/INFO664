@@ -2,6 +2,7 @@
 ## Ashley Hernandez
 [MOMA Data source]: (https://github.com/museumofmodernart/collection)
 ### <ins> Week 1 HW </ins>                                                 Find 3-5 datasets/data sources that are relevant to your interests. Provide a brief summary of each of the datasets. Describe why the dataset is interesting to you / how it relates to your interests. Hypothesize, in general terms, how you might use code to sort / structure / filter the dataset. Don’t refer to specific Python/coding terminology – a description in plain language is fine.                                    
+
 General Interests/Topics for Assignment:                                                
 **[MOMA Data source]:** (https://github.com/museumofmodernart/collection)
 -    The MOMA collection dataset is an ongoing data collection of various forms of art,  spanning over 200,000 works. The data collection has some incomplete information, especially since the GitHub repository is continuously being updated. However, it has information such as date acquired, artist, title, etc.  
